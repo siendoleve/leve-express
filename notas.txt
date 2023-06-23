@@ -1,0 +1,121 @@
+Usuario:
+
+Atributos: idUsuario (clave primaria), nombre y email.
+
+Relaciones:
+
+Puede tener una o varias empresas.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Empresa:
+
+Atributos: idEmpresa (clave primaria), nombre, dirección, teléfono e idUsuario (clave foránea).
+
+Relaciones:
+
+Pertenece a un único usuario.
+
+Puede tener uno o varios lotes.
+
+Puede tener uno o varios bienes económicos.
+
+Puede tener uno o varios registros de capital.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Lote:
+
+Atributos: idLote (clave primaria), fecha, cantidad producida e idProducto (clave foránea).
+
+Relaciones:
+
+Pertenece a un único producto.
+
+Pertenece a una única empresa.
+
+Puede tener uno o varios registros de gastos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Producto:
+
+Atributos: idProducto (clave primaria), nombre y descripción.
+
+Relaciones:
+
+Puede tener uno o varios lotes.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Gasto:
+
+Atributos: idGasto (clave primaria), concepto, monto y idTipoGasto (clave foránea).
+
+Relaciones:
+
+Pertenece a un único lote.
+
+Puede tener uno o varios tipos de gasto.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Tipo de Gasto:
+
+Atributos: idTipoGasto (clave primaria) y descripción.
+
+Relaciones:
+
+Puede estar asociado a uno o varios gastos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Cliente:
+
+Atributos: idCliente (clave primaria), nombre y dirección.
+
+Relaciones:
+
+Puede haber realizado una o varias compras.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Compra:
+
+Atributos: idCompra (clave primaria), fecha, cantidad comprada, monto total e idCliente (clave foránea).
+
+Relaciones:
+
+Realizada por un único cliente.
+
+Puede estar asociada a uno o varios lotes.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Bien Económico:
+
+Atributos: idBienEconomico (clave primaria), nombre, descripción e idTipoBienEconomico (clave foránea).
+
+Relaciones:
+
+Pertenece a una única empresa.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Tipo de Bien Económico:
+
+Atributos: idTipoBienEconomico (clave primaria) y descripción.
+
+Relaciones:
+
+Puede estar asociado a uno o varios bienes económicos.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Capital:
+
+Atributos: idCapital (clave primaria), monto, fecha e idEmpresa (clave foránea).
+
+Relaciones:
+
+Pertenece a una única empresa.

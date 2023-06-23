@@ -1,0 +1,33 @@
+info: Missing where attribute in the options parameter {"code":"ERR_ASSERTION","expected":true,"generatedMessage":false,"operator":"==","status":"fail","statusCode":500}
+[2023-05-29T22:28:24.852Z] info Capital is not defined
+[2023-06-04T14:24:45.018Z] info jwt expired
+[2023-06-04T14:25:05.406Z] info Incorrect email or password
+[2023-06-04T14:49:28.122Z] info first is not defined
+[2023-06-04T14:50:08.635Z] info first is not defined
+[2023-06-04T14:50:18.575Z] info first is not defined
+[2023-06-04T14:50:20.559Z] info first is not defined
+[2023-06-08T15:38:20.603Z] info jwt expired
+[2023-06-08T15:40:09.084Z] info Incorrect email or password
+[2023-06-08T15:40:16.282Z] info Incorrect email or password
+[2023-06-08T15:57:54.167Z] info Lot not found
+[2023-06-08T16:23:11.250Z] info You are not logged in! Please log in to get access
+[2023-06-08T16:23:28.552Z] info The user could not be found
+[2023-06-08T16:23:59.776Z] info You are not logged in! Please log in to get access
+[2023-06-08T16:24:30.939Z] info You are not logged in! Please log in to get access
+[2023-06-11T17:50:14.489Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-13T01:25:18.048Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-13T01:25:33.395Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-13T01:26:52.558Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-13T01:27:01.709Z] info The user could not be found undefined:undefined
+[2023-06-15T21:12:58.448Z] info jwt expired undefined:undefined
+[2023-06-15T21:13:19.660Z] info jwt expired undefined:undefined
+[2023-06-15T21:19:29.332Z] info Lot not found undefined:undefined
+[2023-06-17T13:35:52.810Z] info jwt expired undefined:undefined
+[2023-06-17T14:14:54.566Z] info Incorrect email or password undefined:undefined
+[2023-06-17T14:14:55.860Z] info Incorrect email or password undefined:undefined
+[2023-06-17T14:24:41.153Z] info Lot with id: 7 not found undefined:undefined
+[2023-06-17T14:24:46.018Z] info Lot with id: 8 not found undefined:undefined
+[2023-06-17T14:24:50.920Z] info Lot with id: 8 not found undefined:undefined
+[2023-06-18T22:36:48.771Z] info jwt expired undefined:undefined
+[2023-06-18T22:56:34.501Z] info jwt expired undefined:undefined
+[2023-06-18T22:56:53.689Z] info Lot with id: 8 not found undefined:undefined
