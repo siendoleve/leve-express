@@ -67,3 +67,20 @@ info: Missing where attribute in the options parameter {"code":"ERR_ASSERTION","
 [2023-06-23T22:24:03.604Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
 [2023-06-23T22:24:03.613Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
 [2023-06-24T15:32:09.948Z] info jwt expired undefined:undefined
+[2023-06-24T16:08:18.640Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:08:18.692Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:08:18.699Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:08:18.725Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:08:18.726Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:08:18.736Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:08:18.742Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:10:18.431Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:10:18.493Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:10:18.495Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:10:18.523Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:10:18.525Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:10:18.529Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:10:18.536Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:15:20.606Z] info Can't find / on this server! undefined:undefined
+[2023-06-24T16:15:20.799Z] info Can't find / on this server! undefined:undefined
+[2023-06-24T16:15:30.385Z] info Can't find /auth/login on this server! undefined:undefined

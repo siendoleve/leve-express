@@ -20,6 +20,7 @@ const spentPerLotRouter = require('./../routes/spentPerLot.routes');
 const typeLotRouter = require('./../routes/typeLot.routes');
 const spentTypeRouter = require('./../routes/spentType.routes');
 const reportRouter = require('./../routes/reports.routes');
+const path = require('path');
 
 const AppError = require('../utils/appError');
 const globalErrorHandler = require('../controllers/error.controller');
@@ -77,7 +78,15 @@ class Server {
       this.app.use(morgan('dev'));
     }
 
-    this.app.use(express.static('public'));
+    this.app.use(
+      express.static(path.join(__dirname, 'public'), {
+        setHeaders: (res, filePath) => {
+          if (filePath.endsWith('.css')) {
+            res.setHeader('Content-Type', 'text/css');
+          }
+        },
+      })
+    );
 
     this.app.use('/api/v1', this.limiter);
     //UTILIZAMOS LAS CORS PARA PERMITIR ACCESSO A LA API
