@@ -31,3 +31,39 @@ info: Missing where attribute in the options parameter {"code":"ERR_ASSERTION","
 [2023-06-18T22:36:48.771Z] info jwt expired undefined:undefined
 [2023-06-18T22:56:34.501Z] info jwt expired undefined:undefined
 [2023-06-18T22:56:53.689Z] info Lot with id: 8 not found undefined:undefined
+[2023-06-23T21:39:51.672Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-23T21:39:51.703Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-23T21:39:51.733Z] info Can't find /css/dore.light.bluenavy.min.css on this server! undefined:undefined
+[2023-06-23T21:39:51.736Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-23T21:39:51.795Z] info Can't find /font/nunito/nunito-italic.woff2 on this server! undefined:undefined
+[2023-06-23T21:39:51.912Z] info Can't find /font/nunito/nunito-italic.woff on this server! undefined:undefined
+[2023-06-23T21:39:51.956Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-23T21:39:51.959Z] info Can't find /font/nunito/nunito-italic.ttf on this server! undefined:undefined
+[2023-06-23T21:39:51.966Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-23T21:39:51.982Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-23T21:47:14.066Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-23T21:47:19.964Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-23T21:47:19.988Z] info Can't find /css/dore.light.bluenavy.min.css on this server! undefined:undefined
+[2023-06-23T21:47:20.103Z] info Can't find /font/nunito/nunito-italic.woff2 on this server! undefined:undefined
+[2023-06-23T21:47:20.104Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-23T21:47:20.149Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-23T21:47:20.151Z] info Can't find /font/nunito/nunito-italic.woff on this server! undefined:undefined
+[2023-06-23T21:47:20.154Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-23T21:47:20.161Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-23T21:47:20.164Z] info Can't find /font/nunito/nunito-italic.ttf on this server! undefined:undefined
+[2023-06-23T21:47:20.172Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-23T21:48:10.754Z] info Can't find /css/dore.light.bluenavy.min.css on this server! undefined:undefined
+[2023-06-23T21:48:11.103Z] info Can't find /assets/js/vendor/bootstrap.bundle.min.js.map on this server! undefined:undefined
+[2023-06-23T21:48:11.106Z] info Can't find /assets/js/vendor/jquery.barrating.min.js.map on this server! undefined:undefined
+[2023-06-23T21:48:11.161Z] info Can't find /assets/css/vendor/bootstrap.min.css.map on this server! undefined:undefined
+[2023-06-23T22:24:03.335Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-23T22:24:03.369Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-23T22:24:03.372Z] info Can't find /css/dore.light.bluenavy.min.css on this server! undefined:undefined
+[2023-06-23T22:24:03.388Z] info Can't find /font/nunito/nunito-italic.woff2 on this server! undefined:undefined
+[2023-06-23T22:24:03.396Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-23T22:24:03.431Z] info Can't find /font/nunito/nunito-italic.woff on this server! undefined:undefined
+[2023-06-23T22:24:03.553Z] info Can't find /font/nunito/nunito-italic.ttf on this server! undefined:undefined
+[2023-06-23T22:24:03.568Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-23T22:24:03.604Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-23T22:24:03.613Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T15:32:09.948Z] info jwt expired undefined:undefined
