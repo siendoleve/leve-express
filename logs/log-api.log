@@ -84,3 +84,160 @@ info: Missing where attribute in the options parameter {"code":"ERR_ASSERTION","
 [2023-06-24T16:15:20.606Z] info Can't find / on this server! undefined:undefined
 [2023-06-24T16:15:20.799Z] info Can't find / on this server! undefined:undefined
 [2023-06-24T16:15:30.385Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:20:09.041Z] info Can't find / on this server! undefined:undefined
+[2023-06-24T16:21:27.436Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:21:27.494Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:21:27.496Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:21:27.533Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:21:27.536Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:21:27.544Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:21:27.552Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:21:33.768Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:21:33.865Z] info Can't find /favicon.ico on this server! undefined:undefined
+[2023-06-24T16:23:13.570Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:23:20.989Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:23:21.034Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:23:21.037Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:23:21.064Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:23:21.066Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:23:21.070Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:23:21.076Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:24:24.815Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:24:37.790Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:24:44.967Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:25:03.174Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:25:20.591Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:25:27.846Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:25:29.593Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:26:25.831Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:27:02.398Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:27:38.121Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:28:21.078Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:28:26.589Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:28:26.633Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:28:26.635Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:28:26.658Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:28:26.661Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:28:26.665Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:28:26.674Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:30:04.184Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:30:19.506Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:30:19.515Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:30:19.545Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:30:19.548Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:30:19.554Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:30:19.556Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:30:19.566Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:39:58.770Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:42:33.207Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:42:36.202Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:42:36.204Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:42:36.239Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:42:36.240Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:42:36.245Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:42:36.248Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:42:36.254Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:43:19.965Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:43:23.303Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:43:23.305Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:43:23.341Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:43:23.342Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:43:23.346Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:43:23.349Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:43:23.354Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:43:39.985Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:43:39.992Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:43:40.021Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:43:40.023Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:43:40.033Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:43:40.034Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:43:40.041Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:48:11.391Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:48:11.429Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:48:11.431Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:48:11.459Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:48:11.460Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:48:11.465Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:48:11.472Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:49:02.243Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:49:06.301Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:49:06.311Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:49:06.348Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:49:06.350Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:49:06.386Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:49:06.392Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:49:06.399Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:51:37.391Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:51:37.440Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:51:37.442Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:51:37.474Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:51:37.476Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:51:37.484Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:51:37.493Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:53:10.696Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:53:10.743Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:53:10.747Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:53:10.780Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:53:10.782Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:53:10.791Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:53:10.798Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T16:53:27.763Z] info Can't find /auth/login on this server! undefined:undefined
+[2023-06-24T16:53:36.904Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T16:53:36.945Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T16:53:36.978Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T16:53:37.001Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T16:53:37.003Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T16:53:37.012Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T16:53:37.019Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:46:22.017Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:22.081Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:46:22.083Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:46:22.113Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:46:22.115Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:22.119Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:46:22.128Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:46:45.511Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:46:45.538Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:45.545Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:46:45.551Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:46:45.570Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:45.576Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:46:45.582Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:46:51.116Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:46:51.147Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:51.154Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:46:51.158Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:46:51.176Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:46:51.181Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:46:51.186Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:47:33.027Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:47:33.092Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:47:33.094Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:47:33.128Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:47:33.131Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:47:33.137Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:47:33.145Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:50:16.258Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:50:33.288Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:50:39.973Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:51:34.008Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:51:34.040Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:51:34.047Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:51:34.052Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:51:34.071Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:51:34.077Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:51:34.082Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:51:52.404Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:54:50.426Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:54:50.469Z] info You are not logged in! Please log in to get access undefined:undefined
+[2023-06-24T17:54:50.543Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:54:50.553Z] info Can't find /font/nunito/nunito-700.woff2 on this server! undefined:undefined
+[2023-06-24T17:54:50.556Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:54:50.562Z] info Can't find /font/nunito/nunito-700.woff on this server! undefined:undefined
+[2023-06-24T17:54:50.568Z] info Can't find /font/nunito/nunito-700.ttf on this server! undefined:undefined
+[2023-06-24T17:55:09.817Z] info Can't find /font/nunito/nunito-regular.woff2 on this server! undefined:undefined
+[2023-06-24T17:55:09.855Z] info Can't find /font/nunito/nunito-regular.woff on this server! undefined:undefined
+[2023-06-24T17:55:09.861Z] info Can't find /font/nunito/nunito-regular.ttf on this server! undefined:undefined
+[2023-06-24T17:55:12.192Z] info Can't find /assets/img/login/balloon-lg.jpg on this server! undefined:undefined
+[2023-06-24T17:55:12.194Z] info Can't find /assets/img/login/balloon.jpg on this server! undefined:undefined
+[2023-06-24T17:55:45.901Z] info Can't find /assets/css/vendor/bootstrap.min.css.map on this server! undefined:undefined
